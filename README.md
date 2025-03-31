@@ -1,1 +1,2 @@
 # biomedical-measurements-system
+System created using HTML, PHP and phpMyAdmin(MySQL). It contains registration and login system. User can create account and after confirmation of account creation via email he/she can use functionalities, which are available on the account. It is possible to store biomedical measurements in the account. User can add, change and delete measurements. It is also possible to add new measurement units in order to store new types of measurements. 
